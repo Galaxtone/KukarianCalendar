@@ -1,19 +1,21 @@
 # Months/Weeks/Days  Go Here
 
 ## Months
- 0. - Aluminary (A·lu·mi·n·ar·y)
- 1. - Unary (U·n·ar·y)
- 2. - Archuary (Arch·u·ary)
- 3. - Alüary (Al·eu·ar·y)
- 4. -
- 5. - Takoary (Ta·ko·ar·y)
- 6. - Mattune (Ma·ttune)
- 7. -
- 8. -
- 9. - Galast (Ga·last)
-10. - Xorgtober (Xorg
-11. -
-12. -
+ * 0 Aluminary (A·lu·mi·n·ar·y)
+ * 1 Unary (U·n·ar·y)
+ * 2 Archuary (Arch·u·ary)
+ * 4 Alüary (Al·eu·ar·y)
+ * 3 (empty)
+ * 4 Takoary (Ta·ko·ar·y)
+ * 5 Mattune (Ma·ttune)
+ * 6 (empty)
+ * 7 (empty)
+ * 8 (empty)
+ * 9 Galast (Ga·last)
+ * 10 Xorgtober (Xorg
+ * 11
+ * 12 (reserved for torus)
+
 ## Weeks Respective To Months
 ### Month 0 Weeks
 ### Month 1 Weeks
