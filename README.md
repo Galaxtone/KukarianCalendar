@@ -6,3 +6,10 @@ A calender... but Kuki!
 7 Days a Week!
 
 Everything with Custom Names!
+
+
+
+
+
+
+![Kukiteam Logo](/images/logo.png)
