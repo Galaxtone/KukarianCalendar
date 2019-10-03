@@ -12,4 +12,4 @@ Everything with Custom Names!
 
 
 
-![Kukiteam Logo](/images/logo.png)
+![Kukiteam Logo](52372426.png)
